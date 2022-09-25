@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316474126314",
+    "project_id": "highlights-e272e",
+    "storage_bucket": "highlights-e272e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316474126314:android:d3599e62c27007fd174c93",
+        "android_client_info": {
+          "package_name": "com.example.firebasepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316474126314-kvl532ohlmlqtv85dq4ucfhfbd35n9po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdKt7dyPl2KQ_32PineNn6DR09FDQZrXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316474126314-kvl532ohlmlqtv85dq4ucfhfbd35n9po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
